@@ -12,7 +12,7 @@ There are two hardware revision to date:
 
 Version 1.0 is the initial version which used an older style of OLED Display with VCC and GND on pins 1 and 2. 
 
-As these old style displays are hard to come by Version 1.1 was spun to change to GND and VCC on pins 1 and 2 as this is a more pinout common.
+As these old style displays are hard to come by Version 1.1 was spun to change to GND and VCC on pins 1 and 2 as this is a more commonly found pinout of the OLED displays.
 
 I would recommend to use Version 1.1 for all new boards.
 
