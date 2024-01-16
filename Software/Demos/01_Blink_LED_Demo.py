@@ -1,9 +1,9 @@
 # Bibliotheken laden
-#from machine import Pin
+from machine import Pin
 import time
 
 # Blaue LED and GPIO22 als Ausgang initialisieren
-#led = Pin(22, Pin.OUT)
+led = Pin(22, Pin.OUT)
     
 # Endlosschleife LED blinken lassen
 while True:
