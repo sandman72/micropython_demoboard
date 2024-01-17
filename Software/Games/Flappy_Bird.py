@@ -46,6 +46,7 @@ def read_high_score():
         return int(high_score)
     else:
         write_high_score(0)
+        return 0
 
 # Bitmap images
 BIRD = '07e018f021f871ecf9ecfcfcbe7e4c81717e4082307c0f80'
